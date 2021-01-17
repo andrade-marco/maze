@@ -1,3 +1,0 @@
-/Users/marco.a.andrade/Documents/Courses/cpp_nanodegree/maze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/marco.a.andrade/Documents/Courses/cpp_nanodegree/maze/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/marco.a.andrade/Documents/Courses/cpp_nanodegree/maze/cmake-build-debug/CMakeFiles/maze.dir
