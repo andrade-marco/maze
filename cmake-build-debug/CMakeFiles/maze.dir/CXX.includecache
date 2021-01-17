@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marco.a.andrade/Documents/Courses/cpp_nanodegree/maze/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+algorithm
+-
+
